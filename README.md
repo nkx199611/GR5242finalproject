@@ -1,7 +1,6 @@
 # GR5242 Final Project
 
-## Building Neural Networks for CIFAR-10 Images Classification
-### --Comparison for models developed with advanced techniques
+## Building Neural Networks for CIFAR-10 Images Classification: Comparing models developed with advanced techniques
 
 ![alt text](https://github.com/nkx199611/GR5242finalproject/blob/master/images/cifar_10.png)
 
@@ -9,18 +8,18 @@
 
 This project contains Images Classification models built using Neural Networks. User can run the notebooks for each different model and compare their performances with test. Each part of codes is commented detaily. 
 
-** Team member **
+**Team Members**
 
-Wanhua He
+* Wanhua He
 
-Yuqi Shi 
+* Yuqi Shi 
 
-Kexin Nie
+* Kexin Nie
 
-Youyang Cao
+* Youyang Cao
 
 
-###Structure
+### Structure ###
 
 The main contents of this project include:
 
@@ -36,5 +35,5 @@ The main contents of this project include:
 
 * Data import: When downloading the data folder, please make sure it is in the same directory with the ipynb. Also, user should always check the path of data
 
-*Tensorboard: Since we run notebook on floyd, we have a cload tensorboard, the user should set up and open local port for tensorboard if running notebook on local machine.
+* Tensorboard: Since we run notebook on floyd, we have a cload tensorboard, the user should set up and open local port for tensorboard if running notebook on local machine.
 
