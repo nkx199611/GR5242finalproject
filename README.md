@@ -23,7 +23,7 @@ This project contains Images Classification models built using Neural Networks. 
 
 The main contents of this project include:
 
-* main.pdf: This is a pdf report giving the background information for our model construction. It also includes analysis for the results.The report is a good place for users who are looking for explanations. The significant outputs and models comparisons are also included here.
+* 5242FinalReport.pdf: This is a pdf report giving the background information for our model construction. It also includes analysis for the results.The report is a good place for users who are looking for explanations. The significant outputs and models comparisons are also included here.
 
 * model_[].ipynb: Those are the ipython notebook for each model. In these notebooks, codes are well explained. Notebooks include the full process of data import, training, validation and testing processing, it is easy for users to reproduce the results step by step. 
 
